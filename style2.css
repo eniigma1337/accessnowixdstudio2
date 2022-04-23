@@ -1,0 +1,36 @@
+.profile h2{
+  font-size: 1.5rem;
+  margin-left: 1%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+.profile .plink{
+  border-bottom: 0.1rem solid grey;
+}
+.modal-content .profile .distance{
+  margin-left: 0.5rem;
+}
+
+.modal-content .profile .distance button{
+color: black;
+background-color: white;
+border: 0.1rem solid skyblue;
+}
+ 
+.modal-content .profile .distance h4{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+}
+
+#km:focus{
+  background-color:  rgb(209, 242, 255);
+  color: black ;
+
+}
+#miles:focus{
+  background-color: rgb(209, 242, 255) ;
+  color: black ;
+}
+
+
